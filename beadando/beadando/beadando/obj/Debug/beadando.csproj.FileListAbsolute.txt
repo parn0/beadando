@@ -1,0 +1,12 @@
+D:\varga\C#repos\beadando\beadando\bin\Debug\beadando.exe.config
+D:\varga\C#repos\beadando\beadando\bin\Debug\beadando.exe
+D:\varga\C#repos\beadando\beadando\bin\Debug\beadando.pdb
+D:\varga\C#repos\beadando\beadando\obj\Debug\beadando.csprojAssemblyReference.cache
+D:\varga\C#repos\beadando\beadando\obj\Debug\beadando.Form1.resources
+D:\varga\C#repos\beadando\beadando\obj\Debug\beadando.Properties.Resources.resources
+D:\varga\C#repos\beadando\beadando\obj\Debug\beadando.csproj.GenerateResource.cache
+D:\varga\C#repos\beadando\beadando\obj\Debug\beadando.exe
+D:\varga\C#repos\beadando\beadando\obj\Debug\beadando.pdb
+D:\varga\C#repos\beadando\beadando\obj\Debug\beadando.Kezdolap.resources
+D:\varga\C#repos\beadando\beadando\obj\Debug\beadando.kopapirollo.resources
+D:\varga\C#repos\beadando\beadando\obj\Debug\beadando.szamkitalalo.resources

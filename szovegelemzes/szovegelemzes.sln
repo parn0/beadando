@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szovegelemzes", "szovegelemzes\szovegelemzes.csproj", "{42E0B7C5-53A9-44CF-AD74-48E77C86FF26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formSzovegelemzes", "formSzovegelemzes\formSzovegelemzes.csproj", "{01034440-D76A-4641-B2D4-99069BB85A0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42E0B7C5-53A9-44CF-AD74-48E77C86FF26}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{42E0B7C5-53A9-44CF-AD74-48E77C86FF26}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{42E0B7C5-53A9-44CF-AD74-48E77C86FF26}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{42E0B7C5-53A9-44CF-AD74-48E77C86FF26}.Release|anycpu.Build.0 = Release|Any CPU
+		{01034440-D76A-4641-B2D4-99069BB85A0D}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{01034440-D76A-4641-B2D4-99069BB85A0D}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{01034440-D76A-4641-B2D4-99069BB85A0D}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{01034440-D76A-4641-B2D4-99069BB85A0D}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3983C08-B1C8-441B-AF9A-E776ECF50920}
+	EndGlobalSection
+EndGlobal

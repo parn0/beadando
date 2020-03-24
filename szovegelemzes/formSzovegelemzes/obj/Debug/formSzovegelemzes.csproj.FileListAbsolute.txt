@@ -1,0 +1,9 @@
+D:\varga\C#repos\szovegelemzes\formSzovegelemzes\obj\Debug\formSzovegelemzes.csprojAssemblyReference.cache
+D:\varga\C#repos\szovegelemzes\formSzovegelemzes\obj\Debug\formSzovegelemzes.Form1.resources
+D:\varga\C#repos\szovegelemzes\formSzovegelemzes\obj\Debug\formSzovegelemzes.Properties.Resources.resources
+D:\varga\C#repos\szovegelemzes\formSzovegelemzes\obj\Debug\formSzovegelemzes.csproj.GenerateResource.cache
+D:\varga\C#repos\szovegelemzes\formSzovegelemzes\bin\Debug\formSzovegelemzes.exe.config
+D:\varga\C#repos\szovegelemzes\formSzovegelemzes\bin\Debug\formSzovegelemzes.exe
+D:\varga\C#repos\szovegelemzes\formSzovegelemzes\bin\Debug\formSzovegelemzes.pdb
+D:\varga\C#repos\szovegelemzes\formSzovegelemzes\obj\Debug\formSzovegelemzes.exe
+D:\varga\C#repos\szovegelemzes\formSzovegelemzes\obj\Debug\formSzovegelemzes.pdb

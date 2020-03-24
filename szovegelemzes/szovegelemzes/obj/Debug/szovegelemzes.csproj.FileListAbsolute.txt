@@ -1,0 +1,10 @@
+/Users/vargadavid/Projects/szovegelemzes/szovegelemzes/bin/Debug/szovegelemzes.exe
+/Users/vargadavid/Projects/szovegelemzes/szovegelemzes/bin/Debug/szovegelemzes.pdb
+/Users/vargadavid/Projects/szovegelemzes/szovegelemzes/obj/Debug/szovegelemzes.csprojAssemblyReference.cache
+/Users/vargadavid/Projects/szovegelemzes/szovegelemzes/obj/Debug/szovegelemzes.exe
+/Users/vargadavid/Projects/szovegelemzes/szovegelemzes/obj/Debug/szovegelemzes.pdb
+D:\varga\C#repos\szovegelemzes\szovegelemzes\bin\Debug\szovegelemzes.exe
+D:\varga\C#repos\szovegelemzes\szovegelemzes\bin\Debug\szovegelemzes.pdb
+D:\varga\C#repos\szovegelemzes\szovegelemzes\obj\Debug\szovegelemzes.csprojAssemblyReference.cache
+D:\varga\C#repos\szovegelemzes\szovegelemzes\obj\Debug\szovegelemzes.exe
+D:\varga\C#repos\szovegelemzes\szovegelemzes\obj\Debug\szovegelemzes.pdb
